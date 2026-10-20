@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="112" fill="#0f172a"/>
+  <rect x="32" y="32" width="448" height="448" rx="88" stroke="#4f46e5" stroke-opacity="0.35" stroke-width="8"/>
+  <!-- Compose Diamond / Cube Geometry -->
+  <path d="M256 96L396 176V336L256 416L116 336V176L256 96Z" fill="#4f46e5" fill-opacity="0.2" stroke="#6366f1" stroke-width="16" stroke-linejoin="round"/>
+  <path d="M256 96L396 176L256 256L116 176L256 96Z" fill="#6366f1" fill-opacity="0.45"/>
+  <path d="M256 256V416" stroke="#818cf8" stroke-width="16" stroke-linecap="round"/>
+  <path d="M256 256L396 176" stroke="#818cf8" stroke-width="16" stroke-linecap="round"/>
+  <path d="M256 256L116 176" stroke="#818cf8" stroke-width="16" stroke-linecap="round"/>
+  <!-- Android Compose Spark Node -->
+  <circle cx="256" cy="256" r="28" fill="#38bdf8" stroke="#0f172a" stroke-width="8"/>
+  <circle cx="256" cy="96" r="16" fill="#a5b4fc"/>
+  <circle cx="396" cy="176" r="16" fill="#a5b4fc"/>
+  <circle cx="116" cy="176" r="16" fill="#a5b4fc"/>
+</svg>

@@ -1,0 +1,6 @@
+{
+  "name": "ComposeStudio",
+  "description": "Mobile-first Progressive Web App for designing Android Jetpack Compose UIs via touch drag-and-drop with Kotlin Compose codegen and high-DPI PNG export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
